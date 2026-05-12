@@ -2,7 +2,7 @@
 My name is Felipe Gabriel, I'm Brazilian, and I'm a technology enthusiast who is constantly learning. Currently, I'm pursuing a Technical High School degree in Computer Science at the Federal Institute, and although I'm still building my academic foundation, I'm driven by a strong desire to evolve in the field. My main focus today is software development; I've been studying programming languages ​​in depth to establish myself as a Web Developer. I've been especially dedicated to front-end and data modeling, seeking to apply everything I learn in practice. In addition to coding, I bring practical experience in hardware, maintenance, and network infrastructure, which helps me understand how machines actually work. My goal is to transform this dedication into real-world experience, constantly improving my skills to deliver solutions that truly work.
 
 
-# 💻 Tech Stack:
+# Languages and Tools:
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://devdocs.io/javascript/)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://devdocs.io/html/)
@@ -36,3 +36,9 @@ My name is Felipe Gabriel, I'm Brazilian, and I'm a technology enthusiast who is
     <img alt="stars" title="Estrelas que recebi" src="https://custom-icon-badges.demolab.com/github/stars/felipe-dev7?color=DAA520&labelColor=B8860B&style=for-the-badge&logo=star&label=Stars&logoColor=white"/></a>
 
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rwvthrdev/rwvthrdev/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rwvthrdev/rwvthrdev/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/rwvthrdev/rwvthrdev/output/snake.svg">
+</picture>
