@@ -16,7 +16,8 @@ My name is Felipe Gabriel, I'm Brazilian, and I'm a technology enthusiast who is
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Hydra](https://img.shields.io/badge/Hydra-FF0000?style=for-the-badge&logo=kalilinux&logoColor=white)](https://github.com/vanhauser-thc/thc-hydra)
+[![Hydra](https://img.shields.io/badge/Hydra-1A1A1A?style=for-the-badge&logo=hydra&logoColor=white)](https://github.com/vanhauser-thc/thc-hydra)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Felipe-dev7&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false)<br/>
