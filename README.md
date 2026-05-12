@@ -22,3 +22,17 @@ My name is Felipe Gabriel, I'm Brazilian, and I'm a technology enthusiast who is
 ![](https://streak-stats.demolab.com/?user=Felipe-dev7&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Felipe-dev7&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+
+## GitHub
+
+<a href="https://github.com/felipe-dev7?tab=followers">
+        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/felipe-dev7?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+        </a>
+
+<a href="https://github.com/felipe-dev7?tab=repositories">
+    <img alt="repositories" title="Meus repositórios no Github" src="https://custom-icon-badges.demolab.com/badge/Reposit%C3%B3rios-6A0DAD.svg?style=for-the-badge&logo=repo&logoColor=white&labelColor=4B0082"/></a>
+
+<a href="https://github.com/felipe-dev7?tab=stars">
+    <img alt="stars" title="Estrelas que recebi" src="https://custom-icon-badges.demolab.com/github/stars/felipe-dev7?color=DAA520&labelColor=B8860B&style=for-the-badge&logo=star&label=Stars&logoColor=white"/></a>
+
+
