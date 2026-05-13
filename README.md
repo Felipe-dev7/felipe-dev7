@@ -23,13 +23,13 @@ My name is Felipe Gabriel, I'm Brazilian, and I'm a technology enthusiast who is
 
 # GitHub Stats:
 <!-- 1. STATS CARD -->
-![](https://github-readme-stats.vercel.app/api?username=Felipe-dev7&include_all_commits=true&count_private=false&title_color=225a8a&text_color=ffffff&icon_color=3a8ad2&bg_color=0a1628&hide_border=true&custom_title=Felipe%27s%20GitHub%20Stats) <br/>
+![](https://github-readme-stats.shion.dev/api?username=Felipe-dev7&include_all_commits=true&count_private=false&title_color=225a8a&text_color=ffffff&icon_color=3a8ad2&bg_color=0a1628&hide_border=true&custom_title=Felipe%27s%20GitHub%20Stats) <br>
 
 <!-- 2. STREAK CARD -->
-![](https://streak-stats.demolab.com/?user=Felipe-dev7&theme=transparent&title_color=225a8a&text_color=ffffff&bg_color=0a1628&hide_border=true&ring=225a8a&fire=3a8ad2&currStreakLabel=3a8ad2&currStreakNum=3a8ad2&sideNums=ffffff&dates=ffffff) <br/>
+![](https://streak-stats.demolab.com/?user=Felipe-dev7&theme=transparent&title_color=225a8a&text_color=ffffff&bg_color=0a1628&hide_border=true&ring=225a8a&fire=3a8ad2&currStreakLabel=3a8ad2&currStreakNum=3a8ad2&sideNums=ffffff&dates=ffffff) <br>
 
 <!-- 3. TOP LANGS CARD -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-dev7&layout=compact&include_all_commits=true&count_private=false&title_color=225a8a&text_color=ffffff&icon_color=3a8ad2&bg_color=0a1628&hide_border=true&custom_title=Linguagens) <br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Felipe-dev7&layout=compact&include_all_commits=true&count_private=false&title_color=225a8a&text_color=ffffff&icon_color=3a8ad2&bg_color=0a1628&hide_border=true&custom_title=Linguagens) <br>
 
 
 ## GitHub
