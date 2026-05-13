@@ -24,13 +24,9 @@ My name is Felipe Gabriel, I'm Brazilian, and I'm a technology enthusiast who is
 # GitHub Stats:
 
 <!-- 1. STATS CARD -->
-![](https://github-readme-stats.shion.dev/api?username=Felipe-dev7&include_all_commits=true&count_private=false&title_color=225a8a&text_color=ffffff&icon_color=3a8ad2&bg_color=0a1628&hide_border=true&custom_title=Felipe%27s%20GitHub%20Stats) <br>
-
-<!-- 2. STREAK CARD -->
-![](https://streak-stats.demolab.com/?user=Felipe-dev7&theme=dark&title_color=225a8a&text_color=ffffff&bg_color=0a1628&hide_border=true&ring=225a8a&fire=3a8ad2&currStreakLabel=3a8ad2&currStreakNum=3a8ad2&sideNums=ffffff&dates=ffffff) <br>
-
-<!-- 3. TOP LANGS CARD -->
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Felipe-dev7&layout=compact&include_all_commits=true&count_private=false&title_color=225a8a&text_color=ffffff&icon_color=3a8ad2&bg_color=0a1628&hide_border=true&custom_title=Linguagens) <br>
+![](https://github-readme-stats.shion.dev/api?username=Felipe-dev7v&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&title=Felipe%27s%20Github%20Status)<br/>
+![](https://streak-stats.demolab.com/?user=Felipe-dev7v&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Felipe-dev7v&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 ## GitHub
@@ -48,7 +44,7 @@ My name is Felipe Gabriel, I'm Brazilian, and I'm a technology enthusiast who is
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rwvthrdev/rwvthrdev/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rwvthrdev/rwvthrdev/output/snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/rwvthrdev/rwvthrdev/output/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipe-dev7v/felipe-dev7v/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipe-dev7v/felipe-dev7v/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/felipe-dev7v/felipe-dev7v/output/snake.svg">
 </picture>
