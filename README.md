@@ -45,8 +45,6 @@ My name is Felipe Gabriel, I'm Brazilian, and I'm a technology enthusiast who is
 
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipe-dev7v/felipe-dev7v/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipe-dev7v/felipe-dev7v/output/snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/felipe-dev7v/felipe-dev7v/output/snake.svg">
-</picture>
+<p align="center">
+  <img src="gear-animation.svg" alt="Gears Animation">
+</p>
