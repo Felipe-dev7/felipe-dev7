@@ -22,6 +22,9 @@ My name is Felipe Gabriel, I'm Brazilian, and I'm a technology enthusiast who is
 
 
 # GitHub Stats:
+
+![](https://github-profile-summary-cards.vercel.app/cards/profile-details?username=Felipe-dev7&theme=github_dark&bg_color=0a1628&title_color=225a8a&icon_color=3a8ad2&text_color=ffffff&hide_border=true) <br>
+
 <!-- 1. STATS CARD -->
 ![](https://github-readme-stats.shion.dev/api?username=Felipe-dev7&include_all_commits=true&count_private=false&title_color=225a8a&text_color=ffffff&icon_color=3a8ad2&bg_color=0a1628&hide_border=true&custom_title=Felipe%20GitHub%20Stats) <br>
 
