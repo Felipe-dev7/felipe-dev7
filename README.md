@@ -46,3 +46,12 @@ My name is Felipe Gabriel, I'm Brazilian, and I'm a technology enthusiast who is
 
 
 
+
+
+## Gráfico de Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Felipe-dev7/Felipe-dev7/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Felipe-dev7/Felipe-dev7/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Felipe-dev7/Felipe-dev7/output/pacman-contribution-graph.svg">
+</picture>
