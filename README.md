@@ -28,7 +28,7 @@ My name is Felipe Gabriel, I'm Brazilian, and I'm a technology enthusiast who is
 
 ![](https://streak-stats.demolab.com/?user=Felipe-dev7&theme=midnight-purple&hide_border=false)<br/>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Felipe-dev7&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact&color=225a8a)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Felipe-dev7&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact&title_color=225a8a)
 
 
 ## GitHub
