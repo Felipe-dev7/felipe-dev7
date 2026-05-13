@@ -33,7 +33,8 @@ My name is Felipe Gabriel, I'm Brazilian, and I'm a technology enthusiast who is
 <br/>
 
 <!-- Top Languages -->
-<img align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Felipe-dev7&layout=compact&title_color=0a2a42&text_color=ffffff&icon_color=8a1c41&bg_color=020203&border_color=0a2a42&hide_border=false&include_all_commits=true&count_private=false" />
+<!-- Top Languages com barra mais clara para restante -->
+<img align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Felipe-dev7&layout=compact&title_color=0a2a42&text_color=ffffff&icon_color=8a1c41&bg_color=020203&border_color=0a2a42&hide_border=false&include_all_commits=true&count_private=false&langs_count=8&theme=transparent&custom_title=Linguagens&hide=html,css&hide_progress=false&bg_color=020203&border_radius=12&color_bar_fill=0a2a42&color_bar_empty=3a7ca5" />
 
 
 
