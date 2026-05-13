@@ -22,21 +22,9 @@ My name is Felipe Gabriel, I'm Brazilian, and I'm a technology enthusiast who is
 
 
 # 📊 GitHub Stats:
-<!-- GitHub Stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Felipe-dev7&include_all_commits=true&count_private=false&title_color=0a2a42&text_color=ffffff&icon_color=8a1c41&bg_color=020203&border_color=0a2a42&hide_border=false&border_radius=12&show_icons=true" />
-
-<br/>
-<br/>
-
-<!-- Streak Stats -->
-<img align="center" src="https://streak-stats.demolab.com/?user=Felipe-dev7&theme=transparent&title_color=0a2a42&text_color=ffffff&bg_color=020203&border_color=0a2a42&hide_border=false&border_radius=12&fire=8a1c41&ring=0a2a42&currStreakLabel=0a2a42&dates=ffffff&sideNums=8a1c41" />
-
-<br/>
-<br/>
-
-<!-- Top Languages (COM barra clara) -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-dev7&layout=compact&title_color=0a2a42&text_color=ffffff&icon_color=8a1c41&bg_color=020203&border_color=0a2a42&hide_border=false&border_radius=12&include_all_commits=true&count_private=false&langs_count=6&hide=html,css&custom_title=Linguagens%20Mais%20Usadas" />
-
+![](https://github-readme-stats.shion.dev/api?username=Felipe-dev7&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Felipe-dev7&theme=codeSTACKr&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Felipe-dev7&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 ## GitHub
