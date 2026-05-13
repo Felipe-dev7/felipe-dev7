@@ -45,6 +45,4 @@ My name is Felipe Gabriel, I'm Brazilian, and I'm a technology enthusiast who is
 
 
 
-<p align="center">
-  <img src="gear-animation.svg" alt="Gears Animation">
-</p>
+
