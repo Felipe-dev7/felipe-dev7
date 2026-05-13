@@ -24,11 +24,11 @@ My name is Felipe Gabriel, I'm Brazilian, and I'm a technology enthusiast who is
 # GitHub Stats:
 
 <!-- 1. STATS CARD -->
-![](https://github-readme-stats.shion.dev/api?username=Felipe-dev7&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&title=Felipe%27s%20Github%20Status&icon_color=3a8ad2&title_color=429ae8)<br/>
+![](https://github-readme-stats.shion.dev/api?username=Felipe-dev7&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&title=Felipe%27s%20Github%20Status&icon_color=429ae8&title_color=429ae8)<br/>
 
-![](https://streak-stats.demolab.com/?user=Felipe-dev7&theme=midnight-purple&hide_border=false&ring=225a8a&fire=225a8a&currStreakLabel=225a8a&sideLabels=225a8a&currStreakNum=225a8a&sideNums=225a8a) <br>
+![](https://streak-stats.demolab.com/?user=Felipe-dev7&theme=midnight-purple&hide_border=false&ring=429ae8&fire=429ae8&currStreakLabel=429ae8&sideLabels=429ae8&currStreakNum=429ae8&sideNums=429ae8) <br>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Felipe-dev7&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact&title_color=225a8a)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Felipe-dev7&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact&title_color=429ae8)
 
 
 ## GitHub
