@@ -24,7 +24,7 @@ My name is Felipe Gabriel, I'm Brazilian, and I'm a technology enthusiast who is
 # GitHub Stats:
 
 <!-- 1. STATS CARD -->
-![](https://github-readme-stats.shion.dev/api?username=Felipe-dev7&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&title=Felipe%27s%20Github%20Status&icon_color=429ae8&title_color=429ae8)<br/>
+![](https://github-readme-stats.shion.dev/api?username=Felipe-dev7&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&title=Felipe%27s%20Github%20Status&icon_color=ff8600&title_color=429ae8)<br/>
 
 ![](https://streak-stats.demolab.com/?user=Felipe-dev7&theme=midnight-purple&hide_border=false&ring=429ae8&fire=429ae8&currStreakLabel=429ae8&sideLabels=429ae8&currStreakNum=429ae8&sideNums=429ae8) <br>
 
